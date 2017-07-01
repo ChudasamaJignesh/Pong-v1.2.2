@@ -42,4 +42,4 @@ more will do if get time..<br />
 
 ## Licence
 
-This project is licensed under the MIT License - see the [LICENSE.md](../master/LICENSE.md) file for details<br />
+This project is licensed under the MIT License - see the [LICENSE](../master/LICENSE) file for details<br />
