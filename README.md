@@ -1,10 +1,9 @@
 # Pong-v1.2.2
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![label](https://img.shields.io/github/issues-raw/badges/shields/website.svg)]()
-[![180 kB](https://img.shields.io/github/size/webcaetano/craft/build/craft.min.js.svg)]()
 [![PyPI](https://img.shields.io/pypi/status/Django.svg)]()  
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
-[![v1.2.2](https://img.shields.io/github/release/qubyte/rubidium.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ### Java Mini Project: Pong Game <br />
 It is Old time favorite Ping-Pong game. This Game is for 2-Player and it is part of my Network Project. <br />
