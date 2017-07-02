@@ -6,17 +6,6 @@ C:.<br />
     │   build.xml<br />
     │   manifest.mf<br />
     │<br />
-    ├───build<br />
-    │   └───classes<br />
-    │           .netbeans_automatic_build<br />
-    │           .netbeans_update_resources<br />
-    │           Ball.class<br />
-    │           PlayerClient.class<br />
-    │           PlayerServer.class<br />
-    │           PongClient.class<br />
-    │           PongServer.class<br />
-    │           Test.class<br />
-    │<br />
     ├───nbproject<br />
     │   │   build-impl.xml<br />
     │   │   genfiles.properties<br />
